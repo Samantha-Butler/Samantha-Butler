@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on small projects and simple problem solving.<br>👯 I’m looking to collaborate on joint projects.<br>🤝 I’m looking for help with expanding my coding knowledge! <br>🌱 I’m currently learning to fill gaps in my C# knowledge.<br>💬 Ask me about my change from primary teaching to software development!<br>⚡ Fun fact: I am part of a group Guinness world record holder.
-
+🔭 I’m currently working on small projects and simple problem solving.<br>🤝 I’m looking for help with expanding my coding knowledge. <br>🌱 I’m currently learning to fill gaps in my C# knowledge.<br>💬 Ask me about my change from primary teaching to software development!<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samantha-jane-butler) 
