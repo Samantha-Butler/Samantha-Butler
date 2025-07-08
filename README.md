@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on small projects and simple problem solving.<br>🤝 I’m looking for help with expanding my coding knowledge. <br>🌱 I’m currently learning to fill gaps in my C# knowledge.<br>💬 Ask me about my change from primary teaching to software development!<br>
+## 💫 About Me
+
+👩‍🏫 **Former teacher turned developer** – After 7 years in the classroom, I’ve brought my problem-solving, communication, and ability to adapt on the fly.
+
+🛠️ **Currently building** small C# projects that help sharpen my understanding of core programming concepts.
+
+📚 **Learning every day** – I’m filling in the gaps in my C# knowledge through self-identified gaps found during my apprenticeship
+
+🤝 **Always open to ideas** – Whether it’s pair programming, code reviews, or just chatting about tech career switches, I’m here for it.
+
+🎯 **Goal-driven and curious** – I’m not just coding for practice; I’m building the skills for a long-term career in software development.
+
+🎨 **Outside of code** – I love crochet 🧶, gaming 🎮, cross stitch ✂️, and messy play with my children 👶 (especially when it involves glitter or paint everywhere).
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samantha-jane-butler) 
